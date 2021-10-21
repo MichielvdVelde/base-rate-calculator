@@ -1,5 +1,5 @@
 {
-  "name": "base-rate-calculator",
+  "name": "@ageira/base-rate-calculator",
   "version": "0.1.0",
   "description": "EVE Online Haulers Channel Base Rate Calculator as a stand-alone module",
   "main": "./dist/index.ts",
