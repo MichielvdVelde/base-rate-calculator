@@ -1,6 +1,6 @@
 {
   "name": "@ageira/base-rate-calculator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "EVE Online Haulers Channel Base Rate Calculator as a stand-alone module",
   "main": "./dist/index.ts",
   "repository": {
@@ -9,6 +9,9 @@
   },
   "keywords": [
     "eve"
+  ],
+  "files": [
+    "dist"
   ],
   "author": "Michiel van der Velde <michiel@michielvdvelde.nl>",
   "license": "ISC",
